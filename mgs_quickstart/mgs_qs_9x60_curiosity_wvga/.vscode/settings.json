@@ -1,0 +1,11 @@
+{
+    "mplab.clangd.path": "c:\\Program Files\\Microchip\\xc32\\v5.00\\bin\\xc32-clangd.exe",
+    "mplab.clangd.compileCommandsDir": "${workspaceFolder}\\_build\\mgs_qs_9x60_curiosity_wvga\\default",
+    "memory-inspector.debugTypes": [
+        "arm-debugger",
+        "embedded-debug",
+        "gdb",
+        "mplab-core-da"
+    ],
+    "cmake.sourceDirectory": "C:/Drive/H3/H3Dev/apps/gfx_ex/mgsh_sam9x6_vs/mgs_quickstart/mgs_qs_9x60_curiosity_wvga/cmake/mgs_qs_9x60_curiosity_wvga/default"
+}
